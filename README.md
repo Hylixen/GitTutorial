@@ -1,3 +1,3 @@
 ## GIT TUTORIAL
 
-  记录git基本使用
+  记录git基本使用方法
