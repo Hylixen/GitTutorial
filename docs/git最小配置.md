@@ -2,7 +2,7 @@
 
 安装git后进行初始化配置
 
-* git config --global user.name 'usr_name'
+* git config --global usr.name 'usr_name'
 * git config --global usr.email 'usr_email'
 
 通过loacl、global、system控制配置的作用域
